@@ -1,0 +1,4 @@
+enum COUNTTYPE{
+  PLUS,
+  MINUS,
+}
